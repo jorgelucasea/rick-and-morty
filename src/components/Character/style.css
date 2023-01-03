@@ -1,0 +1,42 @@
+.character {
+    width: 47%;
+    background: #c7a21d;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    display: flex;
+    position: relative;
+    margin-right: 1rem;  
+}
+
+.character img {
+    width: 15rem;
+    height: 100%;
+}
+
+.info {
+    padding: 1rem;
+    color: #fff;
+    font-size: 1.25rem;
+}
+
+.info h3 {
+    font-size: 2rem;
+}
+
+.status {
+    margin-bottom: 1rem;
+}
+
+.title {
+    color: black;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.last-seen {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 1.3rem;
+}
